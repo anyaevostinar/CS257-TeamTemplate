@@ -1,7 +1,29 @@
 # Title
 
-# Dataset(s) summary
+# Sustainable Development Goal(s)
 
-# Dataset(s) Metadata
+# Features
 
-# Potential User Interactions
+## Feature 1: 
+
+* Person responsible:
+* User story:
+* Acceptance Criteria:
+
+## Feature 2: 
+
+* Person responsible:
+* User story:
+* Acceptance Criteria:
+
+## Feature 3: 
+
+* Person responsible:
+* User story:
+* Acceptance Criteria:
+
+# Datasets Metadata
+
+# Mock up
+
+# Data story
